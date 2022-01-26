@@ -7,7 +7,6 @@
     "prepare": "tsc",
     "build": "tsc",
     "pdf-lib": "ts-node src/pdf-lib.ts",
-    "pdf-report": "ts-node src/pdf-report.ts",
     "puppeteer": "ts-node src/puppeteer.ts"
   },
   "keywords": [],
