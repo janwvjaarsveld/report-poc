@@ -8,9 +8,7 @@
     "build": "tsc",
     "pdf-lib": "ts-node src/pdf-lib.ts",
     "pdf-report": "ts-node src/pdf-report.ts",
-    "puppeteer": "ts-node src/puppeteer.ts",
-    "puppeteer-fnb": "ts-node src/puppeteer-fnb.ts",
-    "puppeteer-google": "ts-node src/puppeteer-google.ts"
+    "puppeteer": "ts-node src/puppeteer.ts"
   },
   "keywords": [],
   "author": "",
